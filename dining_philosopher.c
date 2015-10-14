@@ -1,3 +1,4 @@
+/// dont forget to link the file with lpthread ...
 #include<stdio.h>
 #include<pthread.h>
 #include<stdlib.h>
